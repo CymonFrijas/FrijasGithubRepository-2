@@ -13,4 +13,5 @@ if(salary>=30000):
     else:
         print("You are not eligible for a loan: High Loan Amount")
 else:
-    print("You are not eligible for a loan: Low Salary")
+    print("You are not eligible for a loan: Low Salary")    
+    
